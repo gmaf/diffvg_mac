@@ -8,3 +8,6 @@ diffvg.egg-info
 dist
 __pycache__
 .DS_Store
+*.png
+*.svg
+*.mp4
